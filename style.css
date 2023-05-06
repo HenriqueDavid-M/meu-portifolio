@@ -6,6 +6,7 @@
   font-style: normal;
   color: #837E9F;
   margin: 0%;
+  display: flex;
 }
 *{
   position: absolute;
